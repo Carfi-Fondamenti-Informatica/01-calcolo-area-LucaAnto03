@@ -15,5 +15,5 @@ Atrap = ((a+b)*c)/2;
   cout << Aquad << endl;
   cout << Arett << endl;
   cout << Atrap << endl;
-  return 0
+  return 0;
 }
